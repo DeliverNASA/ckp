@@ -1,0 +1,15 @@
+{
+  "podman": {
+    "interfaces": {
+      "eth0": {
+        "subnets": [
+          {
+            "ipnet": "10.88.0.11/16",
+            "gateway": "10.88.0.1"
+          }
+        ],
+        "mac_address": "96:51:84:48:cd:4f"
+      }
+    }
+  }
+}
